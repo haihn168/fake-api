@@ -1,0 +1,28 @@
+{
+	"listCubesToBeAdded": [{
+		"employeeId": null,
+		"visitor": null,
+		"isVisitor": false,
+		"startDate": null,
+		"endDate": null,
+		"screen": 1,
+		"cubeBooking": {
+			"employeeId": null,
+			"isVisitor": false,
+			"startDate": null,
+			"endDate": null,
+			"cubeId": 0
+		},
+		"cubeName": "13.1",
+		"officeId": 3,
+		"floorId": 161,
+		"position": ""
+	}],
+	"listCubesToBeDeleted": [],
+	"listCubesToBeUpdated": [],
+	"id": 161,
+	"floorName": "13",
+	"officeId": 3,
+	"seatNamePrefix": "13",
+	"seatSize": "40px"
+}
